@@ -4,9 +4,7 @@ Repositorio para subir actividades de computo en la nube
 
 <html>
   
-<head>
-  <title> computo</title>
-</head>
+
 <body>
   <h3> Computo en la nube</h3>
   <ul>
